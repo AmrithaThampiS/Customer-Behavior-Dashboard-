@@ -88,8 +88,6 @@ Created an interactive dashboard to visualize:
 * **Excel**
 Project Preview
 
-![Dashboard Screenshot]([your-image-link.png](https://github.com/AmrithaThampiS/Customer-Behavior-Dashboard-/blob/main/CUSTOMERDASHBOARD.png))
-
-
+![Dashboard Screenshot](https://github.com/AmrithaThampiS/Customer-Behavior-Dashboard-/blob/main/CUSTOMERDASHBOARD.png)
 
 
