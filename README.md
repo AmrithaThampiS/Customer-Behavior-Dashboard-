@@ -86,9 +86,10 @@ Created an interactive dashboard to visualize:
 * **SQL (PostgreSQL)**
 * **Power BI**
 * **Excel**
+Project Preview
+
+![Dashboard Screenshot]([your-image-link.png](https://github.com/AmrithaThampiS/Customer-Behavior-Dashboard-/blob/main/CUSTOMERDASHBOARD.png))
 
 
-
----
 
 
